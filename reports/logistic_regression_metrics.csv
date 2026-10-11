@@ -1,0 +1,2 @@
+model,threshold,accuracy,spam_precision,spam_recall,spam_f1,false_positive_rate,false_negative_rate,roc_auc,average_precision,true_negatives,false_positives,false_negatives,true_positives
+Logistic Regression,0.5,0.8873684210526316,0.9333333333333333,0.616,0.7421686746987952,0.015714285714285715,0.384,0.9400614285714286,0.9040672318509779,1378,22,192,308

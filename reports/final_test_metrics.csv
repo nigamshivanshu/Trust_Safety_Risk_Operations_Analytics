@@ -1,0 +1,2 @@
+threshold,test_messages,accuracy,spam_precision,spam_recall,spam_f1,false_positive_rate,roc_auc,average_precision,true_negatives,false_positives,false_negatives,true_positives,total_flagged_for_review,review_rate
+0.4,1900,0.901578947368421,0.9335180055401662,0.674,0.7828106852497096,0.017142857142857144,0.9400614285714286,0.9040672318509779,1376,24,163,337,361,0.19

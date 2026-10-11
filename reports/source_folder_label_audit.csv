@@ -1,0 +1,7 @@
+source_folder,ham,spam,All
+easy_ham,2500,0,2500
+easy_ham_2,1400,0,1400
+hard_ham,250,0,250
+spam,0,500,500
+spam_2,0,1397,1397
+All,4150,1897,6047

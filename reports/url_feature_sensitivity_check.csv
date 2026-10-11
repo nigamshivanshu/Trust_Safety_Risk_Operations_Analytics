@@ -1,0 +1,3 @@
+model,threshold,accuracy,spam_precision,spam_recall,spam_f1,false_positive_rate,roc_auc,true_negatives,false_positives,false_negatives,true_positives,total_flagged_for_review
+All features,0.4,0.901578947368421,0.9335180055401662,0.674,0.7828106852497096,0.017142857142857144,0.9400614285714286,1376,24,163,337,361
+Without url_count,0.4,0.891578947368421,0.9375,0.63,0.7535885167464115,0.015,0.9186928571428571,1379,21,185,315,336
